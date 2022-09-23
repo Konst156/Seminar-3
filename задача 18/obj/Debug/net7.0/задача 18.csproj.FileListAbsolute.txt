@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\bin\Debug\net7.0\задача 18.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\bin\Debug\net7.0\задача 18.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\bin\Debug\net7.0\задача 18.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\bin\Debug\net7.0\задача 18.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\bin\Debug\net7.0\задача 18.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\refint\задача 18.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\задача 18.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar 3\задача 18\obj\Debug\net7.0\ref\задача 18.dll
